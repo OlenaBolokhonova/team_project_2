@@ -11,28 +11,36 @@
 
 ## Team's approach 
 ### Data Selection
-We've collectively determined to use same dataset from Project #1 for Project #2 to continue to review Consumer Behaviour and Shopping Habits. 
+We've reviewed dataset from Project #1 and determined that dataset was created using Chatgpt. Dataset is fictious so we were not able to apply learnings since project #1 and dataset was not meaningful. As such, we've collectively decided to look for another set of data and alter the datasets with real data for the purpose of the project. 
 
 ### Analysis Focus
-As each team member has understanding of dataset and structure from previous project, we've decided to leverage learnings since Project 1 to showcase datasets. With that in mind, we wanted to present how total purchase amount related to age group 
+As each team member has understanding of dataset and structure from previous project, we've decided to leverage learnings since Project 1 to showcase datasets. With that in mind, we wanted to present data using Python, Power BI and Tableau. 
+For Power BI, interactive dashboard was created with various filters to drill down into various attributs such as gender, location, season, payment method, subscription status and frequency of purchase. These filters are applied to visualize Total Purchase Amount vs. Previous Purchase with year-over-year changes by age. Additionally, looking at average review ratings by age by gender 
 
 ### Roles and Responsibilities 
-Taking everyone's strength, background and circumstances into consideration, everyone contributed to the group project to ensure successful completion. 
+Taking everyone's strength, background and circumstances into consideration, everyone contributed to the group project to ensure successful completion. Jessilynn leveraged Power BI, Shiraz leveraged Tableau, Olena leveraged Python and Mykhailo supporting the team to complete the project. Everyone has consistently participated in discussion and we were able to resolve conflict regarding dataset decision. Everyone has actively communicated and contributed to this project 
 
 
-### Data Visualization Guide
-#### Main Goals and Objectives of Visualization 
-#### Tailoring Visualization for Effective Communication
-#### Type of Visualization Selection
-#### Libraries and/or Frameworks Selection
-#### Addressing Feedback and Iterative Improvements
-#### Ensuring Inclusivity and Diversity in Visualization
-#### Ensuring Data Visualization Representation Accuracy
-#### Addressing Privacy Concerns or Sensitive Information 
+### Data Visualization Guide 
+
+#### Main Goals and Objectives of Visualization (What are the main goals and objectives of our visualization project?)
+We wanted to see how Total Purchase amount varied from Previous Purchase between different age groups with the ability to drill down the data further with available attributes such as Gender, Location, Season, Payment Method, Subscription Status and Frequency of Purchase. Additionally, we wanted to see if average review ratings differ by gender between age groups with same drill down attributes. 
+#### Tailoring Visualization for Effective Communication (How can we tailor the visualization to effectively communicate with our audience?)
+Depending on the audience and the information we are trying to convey, visualization can be tailored. For this particular visualization, we've included as many attributes as possible to leverage to draw insights from data. This was particularily important as data was fictious and meaningful insights were not easy to draw out. 
+#### Type of Visualization Selection (What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?)
+For Power BI visualization, bar charts with line graph was selected. This visualization was selected becaused we wanted to show case Total Purchase (TY amount) vs. Previous Purchase (LY amount) with their variance in line graph. Variance was calculated in power BI to showcase the line graph 
+#### Libraries and/or Frameworks Selection (Are there any specific libraries or frameworks that are well-suited to our project requirements?)
+#### Addressing Feedback and Iterative Improvements (How can we iterate on our design to address feedback and make iterative improvements?)
+#### Ensuring Inclusivity and Diversity in Visualization (What best practices can we follow to promote inclusivity and diversity in our visualization design?)
+#### Ensuring Data Visualization Representation Accuracy (How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?)
+#### Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
 
 ### Accomplishment Log
 Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates 
-
+Aug 6 - created PowerBI visualization dashboard
+Aug 7 - new repository was created with new branch team_project_2
+Aug 7 - reviewed previous dataset and determined to search for similar dataset that is not fictious
+Aug 8 - updated README_Project2.md
 
 
 ## Rules of Engagement 
