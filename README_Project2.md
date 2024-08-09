@@ -36,11 +36,12 @@ For Power BI visualization, bar charts with line graph was selected. This visual
 #### Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
 
 ### Accomplishment Log
-Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates 
-Aug 6 - created PowerBI visualization dashboard
-Aug 7 - new repository was created with new branch team_project_2
-Aug 7 - reviewed previous dataset and determined to search for similar dataset that is not fictious
-Aug 8 - updated README_Project2.md
+1. Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates - Jessilynn Kim
+2. Aug 6 - created PowerBI visualization dashboard - Jessilynn Kim
+3. Aug 7 - new repository was created with new branch team_project_2 - Olena Bolokhonova
+4. Aug 7 - reviewed previous dataset and determined to search for similar dataset that is not fictious - all team members
+5. Aug 8 - updated README_Project2.md - Jessilynn Kim
+6. Aug 9 - renamed and updated README_Project1.md - Olena Bolokhonova
 
 
 ## Rules of Engagement 
