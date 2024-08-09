@@ -30,23 +30,73 @@ We employed several techniques that are valuable in analyzing customer behavior,
 
 In summary, while the dataset's authenticity limited its use for drawing real marketing insights, the methods we applied are directly transferable to real-world scenarios. These techniques are essential for analyzing customer data, uncovering trends, and guiding strategic decisions in the retail sector.
 
-### Roles and Responsibilities 
-Taking everyone's strength, background and circumstances into consideration, everyone contributed to the group project to ensure successful completion. Jessilynn leveraged Power BI, Shiraz leveraged Tableau, Olena leveraged Python and Mykhailo supporting the team to complete the project. Everyone has consistently participated in discussion and we were able to resolve conflict regarding dataset decision. Everyone has actively communicated and contributed to this project 
+# Part 2: Visualization and Comparative Analysis
 
+## 1. Overview of Findings from Part 1
+
+In Part 1 of our project, we conducted an initial exploration of the dataset, which raised concerns about its authenticity. This led us to investigate further to determine whether the data was real or generated. Our deeper analysis revealed several indicators suggesting that the dataset might indeed be generated. Specifically, we found minimal significant differences in purchase amounts across various demographic segments such as age, gender, and seasonality—patterns that typically exhibit more variability in real-world data. Additionally, the data was already cleaned and contained no missing values, which is unusual for real-world datasets. The absence of references to surveys, sampling methods, or any data collection process further reinforced our suspicion.
+
+Despite these limitations, our project successfully demonstrated several methods that could be applied in real-world scenarios. Linear regressions and grouping techniques were instrumental in identifying potential relationships between variables, while bar charts provided clear and effective visualizations during our exploratory analysis. We also implemented a classification model using K-Nearest Neighbors (KNN), which performed well with an accuracy of 83%. This indicated that, with a well-prepared dataset, such models could be powerful tools for predicting customer behavior and guiding marketing strategies.
 
 ### Data Visualization Guide 
+## 2.#### Main Goals and Objectives of Visualization (What are the main goals and objectives of our visualization project?)
 
-#### Main Goals and Objectives of Visualization (What are the main goals and objectives of our visualization project?)
-We wanted to see how Total Purchase amount varied from Previous Purchase between different age groups with the ability to drill down the data further with available attributes such as Gender, Location, Season, Payment Method, Subscription Status and Frequency of Purchase. Additionally, we wanted to see if average review ratings differ by gender between age groups with same drill down attributes. 
-#### Tailoring Visualization for Effective Communication (How can we tailor the visualization to effectively communicate with our audience?)
-Depending on the audience and the information we are trying to convey, visualization can be tailored. For this particular visualization, we've included as many attributes as possible to leverage to draw insights from data. This was particularily important as data was fictious and meaningful insights were not easy to draw out. 
-#### Type of Visualization Selection (What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?)
-For Power BI visualization, bar charts with line graph was selected. This visualization was selected becaused we wanted to show case Total Purchase (TY amount) vs. Previous Purchase (LY amount) with their variance in line graph. Variance was calculated in power BI to showcase the line graph 
-#### Libraries and/or Frameworks Selection (Are there any specific libraries or frameworks that are well-suited to our project requirements?)
-#### Addressing Feedback and Iterative Improvements (How can we iterate on our design to address feedback and make iterative improvements?)
-#### Ensuring Inclusivity and Diversity in Visualization (What best practices can we follow to promote inclusivity and diversity in our visualization design?)
-#### Ensuring Data Visualization Representation Accuracy (How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?)
-#### Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
+### 2.1. Revise Existing Plots
+The first objective of Part 2 is to review and refine the existing plots created during Part 1. The goal is to ensure that these visualizations are accessible, readable, and accurate. This involves enhancing the clarity of charts, particularly those showing distribution patterns and other key insights. We aim to make these visualizations more informative and easier to interpret, thus improving the overall quality of the data presentation.
+
+### 2.2. Explore Real Datasets
+To further validate our findings, we aim to explore and identify a real dataset with similar variables to those in our current dataset. By comparing the results from the generated dataset with a real-world dataset, we can better understand the reliability of our initial findings. This comparison will also provide a benchmark against which the generated data can be evaluated, highlighting any significant differences or similarities in data patterns.
+
+### 2.3. Comparative Visualization
+Once a real dataset is identified and analyzed, the next step is to compare the visualizations from our project with those derived from the real dataset. This comparative analysis will involve side-by-side comparisons of key visualizations such as distribution charts. The goal is to assess how closely the generated dataset mirrors real-world data and to identify any discrepancies that may arise in visual patterns.
+
+### 2.4. Add New Visualizations Using Effective Tools for Retail Sector
+In this final objective, we will propose various effective tools that can be utilized in the retail sector to uncover important patterns and trends. We will explore the use of advanced visualization tools such as Power BI and Tableau, as well as Python libraries like Matplotlib, Plotly Express and Seaborn. By demonstrating how these tools can be applied to real datasets, we aim to provide actionable insights that can drive business decisions and improve marketing strategies within the retail industry.
+
+### Roles and Responsibilities 
+- **2.1. Revise Existing Plots** - Mykhailo Vitvinov
+- **2.2. Explore Real Datasets** - Shiraz Latif
+- **2.3. Comparative Visualization** - Olena Bolokhonova
+- **2.4. Propose Effective Tools for Retail Sector** - Jessilynn Kim (Power BI), Shiraz Latif (Tableu), Olena Bolokhonova (Python libraries) 
+
+## 3.#### Tailoring Visualization for Effective Communication (How can we tailor the visualization to effectively communicate with our audience?)
+To effectively communicate insights from our retail dataset, we are tailoring visualizations to emphasize key patterns such as location distributions and demographic-based purchase behavior. By using bar charts and line graphs, we are clearly illustrating differences in sales across locations and demographics, making the data more accessible and relevant for decision-makers. This approach ensures that the visualizations are focused on actionable insights that align with the audience's needs.
+
+## 4.#### Type of Visualization Selection (What type of visualization best suits our data and objectives (e.g., bar chart, scatter plot, heatmap)?)
+For our retail dataset, we select a combination of visualizations to best suit our objectives. In Power BI, we use bar charts combined with line graphs to effectively showcase the relationship between total purchases and previous purchases, with a focus on visualizing variances over time. Additionally, in Python, we utilize line graphs and bar charts to further analyze and present demographic-based purchase behavior and location distributions. These visualizations are chosen for their ability to clearly convey key patterns and trends within the data, making the insights accessible and actionable.
+
+## 5.#### Libraries and/or Frameworks Selection (Are there any specific libraries or frameworks that are well-suited to our project requirements?)
+In Python, we use Matplotlib, Plotly Express, and Seaborn to create detailed line graphs and bar charts, helping us explore and present key insights. Pandas is essential for data manipulation and analysis. Additionally, we employ Power BI to create interactive dashboards that allow for dynamic exploration of the data, making it easier to communicate findings to stakeholders.
+
+## 6.#### Addressing Feedback and Iterative Improvements (How can we iterate on our design to address feedback and make iterative improvements?)
+To iterate on our design and address feedback, we plan to share our visualizations with friends and peers to gather their insights. By collecting their feedback, we can identify areas for improvement, such as clarity, accessibility, and overall effectiveness. We will then make iterative changes to refine the visualizations, ensuring they better meet the needs of our audience. This collaborative approach allows us to continuously enhance our designs based on real-world input.
+
+## 7.#### Ensuring Inclusivity and Diversity in Visualization (What best practices can we follow to promote inclusivity and diversity in our visualization design?)
+To promote inclusivity and diversity in our visualization design, we follow these best practices:
+
+7.1. **Use Accessible Color Palettes:** We choose colorblind-friendly palettes and avoid relying solely on color to convey information, ensuring that our visuals are accessible to all viewers.
+   
+7.2. **Clear and Simple Language:** We use straightforward language in labels, titles, and descriptions to make our visualizations easily understandable by a diverse audience, including those with varying levels of data literacy.
+
+7.3. **Interactive Features:** Where possible, we incorporate interactive elements that allow users to explore the data in ways that are meaningful to them, accommodating a range of perspectives and needs.
+
+## 8.#### Ensuring Data Visualization Representation Accuracy (How can we ensure that our visualization accurately represents the underlying data without misleading or misinterpreting information?)
+To ensure our visualizations accurately represent the underlying data without misleading or misinterpreting information, we follow these best practices:
+
+8.1. **Maintain Proper Scaling:** We use appropriate scales and avoid truncating axes to prevent exaggerating or downplaying trends. This helps to present the data in a way that is true to its actual distribution.
+
+8.2. **Clear Labeling:** We ensure that all axes, legends, and data points are clearly labeled, providing context to avoid any potential confusion about what the visualization represents.
+
+8.3. **Avoid Distorting Data:** We refrain from using 3D charts or other complex visuals that might obscure or distort the true relationships within the data. Simpler, more straightforward visuals are often more accurate.
+
+8.4. **Transparent Methodology:** We provide clear explanations of the methods and calculations used in creating the visualizations, so viewers understand how the data was processed and visualized.
+
+8.5. **Consistent Use of Visual Elements:** We apply consistent color schemes, shapes, and sizes across all visualizations to ensure that comparisons are fair and that the data is represented uniformly.
+
+8.6. **Source Attribution:** We always attribute the data sources and include any relevant notes on data limitations or assumptions, helping to maintain transparency and accuracy.
+
+## 9.#### Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
+There are no privacy concerns or sensitive information in our dataset, as the data is entirely generated and not real. It does not contain any personally identifiable information (PII) or confidential details. Since the dataset is synthetic, it poses no risks related to privacy or sensitive information.
 
 ### Accomplishment Log
 1. Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates - Jessilynn Kim
@@ -55,6 +105,7 @@ For Power BI visualization, bar charts with line graph was selected. This visual
 4. Aug 7 - reviewed previous dataset and determined to search for similar dataset that is not fictious - all team members
 5. Aug 8 - updated README_Project2.md - Jessilynn Kim
 6. Aug 9 - renamed and updated README_Project1.md - Olena Bolokhonova
+7. Aug 9 - updated REAME_Project2.md - Olena Bolokhonova
 
 
 ## Rules of Engagement 
