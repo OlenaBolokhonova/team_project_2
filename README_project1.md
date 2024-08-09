@@ -5,9 +5,9 @@
 #### Team Members 
 
 - Shiraz Latif: [Shiraz Latif Video Presentation](https://youtu.be/b9ZE5oaf9DM)  
-- Jessilynn Kim: [Jessilynn Kim Video Presentation] (https://drive.google.com/file/d/154oUYqRxrjb2NYRciiltaPbO3xmOLw3g/view?usp=sharing)
-- Mykhailo Vitvinov: [Mykhailo Vitvinov Video Presentation] (https://youtu.be/Sj4QRFj9Vk8?si=8gOwglDGda79a35Y)
-- Olena Bolokhonova: [Olena Bolokhonova Video Presentation] (https://drive.google.com/file/d/1v07EtJ6vsUtRywuMMTopht9VIy6_oRRa/view?usp=drivesdk)
+- Jessilynn Kim: [Jessilynn Kim Video Presentation](https://drive.google.com/file/d/154oUYqRxrjb2NYRciiltaPbO3xmOLw3g/view?usp=sharing)
+- Mykhailo Vitvinov: [Mykhailo Vitvinov Video Presentation](https://youtu.be/Sj4QRFj9Vk8?si=8gOwglDGda79a35Y)
+- Olena Bolokhonova: [Olena Bolokhonova Video Presentation](https://drive.google.com/file/d/1v07EtJ6vsUtRywuMMTopht9VIy6_oRRa/view?usp=drivesdk)
 
 ## Team's approach 
 ### Data Selection
