@@ -1,5 +1,5 @@
-## Team Project Part 2**
-## Consumer Behavior and Shopping Habits
+## Team Project Part 2
+### Consumer Behavior and Shopping Habits
 
 ### Group 24 
 #### Team Members 
@@ -9,7 +9,7 @@
 - Mykhailo Vitvinov: 
 - Olena Bolokhonova: 
 
-## Team's approach 
+### Team's approach 
 
 ### 1. Overview of Findings from Part 1
 
