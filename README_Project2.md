@@ -1,4 +1,4 @@
- **Team Project#2**
+ **Team Project Part 2**
 ## Consumer Behavior and Shopping Habits
 
 ### Group#24 
