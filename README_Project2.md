@@ -47,7 +47,7 @@ In this final objective, we will propose various effective tools that can be uti
 - **2.1. Revise Existing Plots** - Mykhailo Vitvinov
 - **2.2. Explore Real Datasets** - Shiraz Latif, Olena Bolokhonova
 - **2.3. Comparative Visualization** - Olena Bolokhonova
-- **2.4. Propose Effective Tools for Retail Sector** - Jessilynn Kim (Power BI), Shiraz Latif (Tableu), Olena Bolokhonova (Python libraries) 
+- **2.4.  Add New Visualizations Using Effective Tools for Retail Sector** - Jessilynn Kim (Power BI), Shiraz Latif (Tableu), Olena Bolokhonova (Python libraries) 
 
 #### 3.Tailoring Visualization for Effective Communication (How can we tailor the visualization to effectively communicate with our audience?)
 To effectively communicate insights from our retail dataset, we are tailoring visualizations to emphasize key patterns such as location distributions and demographic-based purchase behavior. By using bar charts and line graphs, we are clearly illustrating differences in sales across locations and demographics, making the data more accessible and relevant for decision-makers. This approach ensures that the visualizations are focused on actionable insights that align with the audience's needs.
