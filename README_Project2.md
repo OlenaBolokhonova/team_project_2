@@ -30,14 +30,6 @@ We employed several techniques that are valuable in analyzing customer behavior,
 
 In summary, while the dataset's authenticity limited its use for drawing real marketing insights, the methods we applied are directly transferable to real-world scenarios. These techniques are essential for analyzing customer data, uncovering trends, and guiding strategic decisions in the retail sector.
 
-## Part 2: Visualization and Comparative Analysis
-
-## 1. Overview of Findings from Part 1
-
-In Part 1 of our project, we conducted an initial exploration of the dataset, which raised concerns about its authenticity. This led us to investigate further to determine whether the data was real or generated. Our deeper analysis revealed several indicators suggesting that the dataset might indeed be generated. Specifically, we found minimal significant differences in purchase amounts across various demographic segments such as age, gender, and seasonality—patterns that typically exhibit more variability in real-world data. Additionally, the data was already cleaned and contained no missing values, which is unusual for real-world datasets. The absence of references to surveys, sampling methods, or any data collection process further reinforced our suspicion.
-
-Despite these limitations, our project successfully demonstrated several methods that could be applied in real-world scenarios. Linear regressions and grouping techniques were instrumental in identifying potential relationships between variables, while bar charts provided clear and effective visualizations during our exploratory analysis. We also implemented a classification model using K-Nearest Neighbors (KNN), which performed well with an accuracy of 83%. This indicated that, with a well-prepared dataset, such models could be powerful tools for predicting customer behavior and guiding marketing strategies.
-
 ### Data Visualization Guide 
 ### 2. Main Goals and Objectives of Visualization (What are the main goals and objectives of our visualization project?)
 
