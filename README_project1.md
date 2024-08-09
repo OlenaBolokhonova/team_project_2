@@ -25,7 +25,7 @@ Shiraz setup overall framework for the project and reviewed codes as he has the 
 #### Description
 This project aims to analyze consumer behavior and shopping habits using a wide range of variables such as age, gender, purchase amount, location, product category, and more. The primary objective is to explore the relationships between these variables to uncover meaningful insights that can inform business strategies on how to drive total purchase amount.
 
-##### Key Variables and Attributes in the Dataset:
+#### Key Variables and Attributes in the Dataset:
 1.	Customer ID: Unique identifier for each customer.
 2.	Age: Age of the customer.
 3.	Gender: Gender of the customer.
@@ -46,14 +46,14 @@ This project aims to analyze consumer behavior and shopping habits using a wide 
 18.	Preferred Payment Method: Customer's preferred mode of payment.
 19.	Frequency of Purchases: How often the customer makes purchases. 
     
-### Libraries and Tools Used
+#### Libraries and Tools Used
 
 - **Data Manipulation:** `numpy`, `pandas`
 - **Statistical Analysis:** `statsmodels`, `scipy`
 - **Machine Learning:** `sklearn`
 - **Data Visualization:** `matplotlib`, `seaborn`
 
-### Data Import and Preparation
+#### Data Import and Preparation
 
 The dataset was imported using `pandas`, and an initial inspection showed no missing values across the 19 columns, indicating a clean dataset.
 
@@ -117,7 +117,7 @@ As a result, we rejected all hypotheses due to lack of statistical significance 
 
 We shifted our focus to a classification model, aiming to predict a customer's subscription status based on their shopping habits.
 
-### Classification Model:
+#### Classification Model:
   - **Model Type:** K-Nearest Neighbors (KNN)
   - **Objective:** To predict whether a customer will subscribe based on their shopping habits.
   - **Results:** The model performed well, achieving an accuracy of 83%. This indicates that with a well-prepared dataset, such models can be powerful tools for predicting customer behavior and guiding marketing strategies.
