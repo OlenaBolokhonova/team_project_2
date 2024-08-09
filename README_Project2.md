@@ -34,7 +34,7 @@ In summary, while the dataset's authenticity limited its use for drawing real ma
 #### 2.1. Revise Existing Plots
 The first objective of Part 2 is to review and refine the existing plots created during Part 1. The goal is to ensure that these visualizations are accessible, readable, and accurate. This involves enhancing the clarity of charts, particularly those showing distribution patterns and other key insights. We aim to make these visualizations more informative and easier to interpret, thus improving the overall quality of the data presentation.
 
-#### 2.2. Explore Real Dataset
+#### 2.2. Explore Real Datasets
 To further validate our findings, we aim to explore and identify a real dataset with similar variables to those in our current dataset. By comparing the results from the generated dataset with a real-world dataset, we can better understand the reliability of our initial findings. This comparison will also provide a benchmark against which the generated data can be evaluated, highlighting any significant differences or similarities in data patterns.
 
 #### 2.3. Comparative Visualization
@@ -45,7 +45,7 @@ In this final objective, we will propose various effective tools that can be uti
 
 #### Roles and Responsibilities 
 - **2.1. Revise Existing Plots** - Mykhailo Vitvinov
-- **2.2. Explore Real Datasets** - Shiraz Latif
+- **2.2. Explore Real Datasets** - Shiraz Latif, Olena Bolokhonova
 - **2.3. Comparative Visualization** - Olena Bolokhonova
 - **2.4. Propose Effective Tools for Retail Sector** - Jessilynn Kim (Power BI), Shiraz Latif (Tableu), Olena Bolokhonova (Python libraries) 
 
