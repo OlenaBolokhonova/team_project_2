@@ -9,8 +9,6 @@
 - Mykhailo Vitvinov: 
 - Olena Bolokhonova: 
 
-### Team's approach 
-
 ### 1. Overview of Findings from Part 1
 
 In Part 1 of our project, we set out to analyze a dataset of customer shopping habits with the goal of uncovering patterns that could inform marketing strategies. The dataset included variables such as age, gender, purchase amounts, seasons, and more. Our initial aim was to use this data to explore how different demographic factors influence shopping behavior.
