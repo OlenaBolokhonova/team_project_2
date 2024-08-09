@@ -89,7 +89,7 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 
 #### Revised Visualizations
 
-### Enhanced Bar Charts:
+#### Enhanced Bar Charts:
 - **Description:** Summarize the improvements made to the bar charts used in Part 1, focusing on how these changes improved readability, accuracy, and the communication of key insights.
 - **Key Insights:** Highlight the primary takeaways from the revised bar charts, such as demographic purchase behaviors or location-based sales patterns.
 #### link on png file 
@@ -126,8 +126,8 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 7. Aug 9 - updated REAME_Project2.md - Olena Bolokhonova
 
 
-## Rules of Engagement 
-### Engagement Channel:
+### Rules of Engagement 
+#### Engagement Channel:
 1. Zoom Breakout Room
 2. Whatsapp Group
 3. Slacks
@@ -135,11 +135,11 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 5. Emails
 6. Google Meets
 
-### Communication:
+#### Communication:
 • Leveraging Whatsapp group for main communication
 • Any delays in joining meeting, completion of task, or availabilities for meeting times are shared 
 
-### Meeting Schedule:
+#### Meeting Schedule:
 1. Post live session breakout room 
     • Check in around 7:15 for about 15 mins
     • Check in around 9:00 for about 15 mins
@@ -148,12 +148,12 @@ There are no privacy concerns or sensitive information in our dataset, as the da
     • Evening around 6-7 pm 
 3. Saturday -TBD
 
-### Progress Tracking
+#### Progress Tracking
 Shared Excel Tracker
     • Documenting tasks and progress
     • Avoid possible duplication with visibility for everyone
 
-### Conflict Resolution 
+#### Conflict Resolution 
 1. Voting
 2. Respecting other's opinions
 3. Listening
