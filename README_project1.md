@@ -57,11 +57,6 @@ This project aims to analyze consumer behavior and shopping habits using a wide 
 
 The dataset was imported using `pandas`, and an initial inspection showed no missing values across the 19 columns, indicating a clean dataset.
 
-##### Recommendations
-Leverage customer shopping habits to increase subscriptions. Typically, customers with subscriptions purchased items with discount applied and used promo code. Even though we didn't find statistical significance between discount with average purchase amounts, this may be due to overall reduction in price for each item customers purchased and impacted the total purchase value being lower than items purchased with regular prices. 
-
-As economic conditions continue to impact customer shopping habits and customers are showing price sensitivity, we recommend targeting customers who do not current have subscription and focus on discounts that will be appealing to all customers. 
-
 ##### Specific Libraries or Frameworks Well-Suited to the Project Requirements:
 1.	Pandas: For data manipulation and analysis.
 2.	NumPy: For numerical computations.
