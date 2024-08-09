@@ -77,13 +77,10 @@ To ensure our visualizations accurately represent the underlying data without mi
 
 8.2. **Clear Labeling:** We ensure that all axes, legends, and data points are clearly labeled, providing context to avoid any potential confusion about what the visualization represents.
 
-8.3. **Avoid Distorting Data:** We refrain from using 3D charts or other complex visuals that might obscure or distort the true relationships within the data. Simpler, more straightforward visuals are often more accurate.
+8.3. **Transparent Methodology:** We provide clear explanations of the methods and calculations used in creating the visualizations, so viewers understand how the data was processed and visualized.
 
-8.4. **Transparent Methodology:** We provide clear explanations of the methods and calculations used in creating the visualizations, so viewers understand how the data was processed and visualized.
+8.4. **Consistent Use of Visual Elements:** We apply consistent color schemes, shapes, and sizes across all visualizations to ensure that comparisons are fair and that the data is represented uniformly.
 
-8.5. **Consistent Use of Visual Elements:** We apply consistent color schemes, shapes, and sizes across all visualizations to ensure that comparisons are fair and that the data is represented uniformly.
-
-8.6. **Source Attribution:** We always attribute the data sources and include any relevant notes on data limitations or assumptions, helping to maintain transparency and accuracy.
 
 #### 9. Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
 There are no privacy concerns or sensitive information in our dataset, as the data is entirely generated and not real. It does not contain any personally identifiable information (PII) or confidential details. Since the dataset is synthetic, it poses no risks related to privacy or sensitive information.
