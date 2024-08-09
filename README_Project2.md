@@ -85,6 +85,37 @@ To ensure our visualizations accurately represent the underlying data without mi
 #### 9. Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
 There are no privacy concerns or sensitive information in our dataset, as the data is entirely generated and not real. It does not contain any personally identifiable information (PII) or confidential details. Since the dataset is synthetic, it poses no risks related to privacy or sensitive information.
 
+### Visualization Results
+
+#### Revised Visualizations
+
+### Enhanced Bar Charts:
+- **Description:** Summarize the improvements made to the bar charts used in Part 1, focusing on how these changes improved readability, accuracy, and the communication of key insights.
+- **Key Insights:** Highlight the primary takeaways from the revised bar charts, such as demographic purchase behaviors or location-based sales patterns.
+#### link on png file 
+
+### Introduction of New Visualizations
+
+#### Interactive Dashboards in Power BI:
+- **Description:** Explain the creation and purpose of interactive dashboards, emphasizing how these allow users to explore the data dynamically.
+- **Key Features:** Highlight the features of the dashboards, such as filters, drill-down capabilities, and real-time updates.
+- **User Interaction:** Describe how the audience can interact with the dashboards to customize their view and extract specific insights relevant to their needs.
+#### link on png file 
+
+#### Additional Visualizations (if any):
+- **Description:** Introduce any new types of visualizations created in Part 2, such as heatmaps or scatter plots, and explain why these were chosen.
+- **Key Insights:** Present the main findings or patterns these new visualizations reveal, and how they contribute to the overall analysis.
+#### link on png file 
+
+### Comparative Visualization
+#### Comparison with Initial Visualizations:
+- **Side-by-Side Comparison:** Show a comparison between the original visualizations from Part 1 and the revised or new visualizations from Part 2.
+- **Improvement Discussion:** Discuss how the changes made in Part 2 improved the communication of data insights and addressed any shortcomings identified in the initial visualizations.
+
+#### Comparison with Real Data Visualizations:
+- **Real vs. Generated Data:** If applicable, compare visualizations from the generated dataset with those from a real dataset. Highlight differences in patterns, clarity, and insights derived from each.
+#### link on png file 
+
 #### Accomplishment Log
 1. Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates - Jessilynn Kim
 2. Aug 6 - created PowerBI visualization dashboard - Jessilynn Kim
