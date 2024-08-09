@@ -85,9 +85,9 @@ To ensure our visualizations accurately represent the underlying data without mi
 #### 9. Addressing Privacy Concerns or Sensitive Information (Are there any privacy concerns or sensitive information that need to be addressed in our visualization?)
 There are no privacy concerns or sensitive information in our dataset, as the data is entirely generated and not real. It does not contain any personally identifiable information (PII) or confidential details. Since the dataset is synthetic, it poses no risks related to privacy or sensitive information.
 
-### Visualization Results
+## Visualization Results
 
-#### Revised Visualizations
+### Revised Visualizations
 
 #### Enhanced Bar Charts:
 - **Description:** Summarize the improvements made to the bar charts used in Part 1, focusing on how these changes improved readability, accuracy, and the communication of key insights.
