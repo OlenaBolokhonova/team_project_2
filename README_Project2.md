@@ -17,9 +17,9 @@ However, as we began our analysis, we encountered several red flags that raised 
 
 Additionally, the dataset was already cleaned and contained no missing values—an unusual characteristic for real-world datasets, which often require substantial cleaning. The absence of references to surveys, sampling methods, or any clear data collection process further suggested that the dataset might be generated rather than real.
 
-Due to these concerns, our focus shifted from purely analyzing the data for marketing insights to investigating the nature of the dataset itself. Despite these limitations, we proceeded with the analysis to demonstrate how certain methods could be applied to real-world data projects.
+Despite these limitations, we proceeded with the analysis to demonstrate how certain methods could be applied to real-world data projects.
 
-We employed several techniques that are valuable in analyzing customer behavior, including:
+We used several techniques that are valuable in analyzing customer behavior, including:
 
 - **Linear Regression** to identify potential relationships between variables like age, gender, discount applied, previous purchase and purchase amounts.
 - **Grouping Techniques** to segment data and analyze patterns within these groups.
@@ -30,7 +30,9 @@ In summary, while the dataset's authenticity limited its use for drawing real ma
 
 ### Data Visualization Guide 
 #### 2. Main Goals and Objectives of Visualization (What are the main goals and objectives of our visualization project?)
+Given that the data we were working with  lacks the complexity and variability found in real-world datasets, we realized that this dataset does not lend itself well to improvements through code changes typically applied in the "Scaling to Production" module. 
 
+While the dataset's quality may limit our ability to showcase advancements in scaling or sampling methodologies, it provides a valuable context for applying advanced visualization techniques. By refining our visualizations, we can still extract meaningful insights from the data and communicate these effectively, emphasizing the importance of clear, accessible data presentation in real-world scenarios.
 #### 2.1. Revise Existing Plots
 The first objective of Part 2 is to review and refine the existing plots created during Part 1. The goal is to ensure that these visualizations are accessible, readable, and accurate. This involves enhancing the clarity of charts, particularly those showing distribution patterns and other key insights. We aim to make these visualizations more informative and easier to interpret, thus improving the overall quality of the data presentation.
 
