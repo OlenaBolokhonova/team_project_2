@@ -99,10 +99,21 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 ### Introduction of New Visualizations
 
 #### Interactive Dashboards in Power BI:
-- **Description:** Explain the creation and purpose of interactive dashboards, emphasizing how these allow users to explore the data dynamically.
-- **Key Features:** Highlight the features of the dashboards, such as filters, drill-down capabilities, and real-time updates.
-- **User Interaction:** Describe how the audience can interact with the dashboards to customize their view and extract specific insights relevant to their needs.
-#### link on png file 
+- **Description:** Cusomter Shopping Behaviour Analysis Power BI Dashboard created using bar chart with line graph, line graph and pie chart with attribute filters. This visualization incorporates various attributes and metrics part of the datasets. Leveraging demographic and transactional attributes as filters, this visualization looks to showcase following: 1) Total Purchase in comparison to previous purchase with variance based on age, 2) average review ratings by age and gender, 3) purchaase amount summary by season and gender 
+
+- **Key Features:**
+Demographic and purchase transaction attributes as filters: gender, location, season, payment method, subscription status and frequency of purchase 
+total purchase amount summary: as filters are applied, this value will change 
+Zoom slider: added to bar chart with line graph and line graph to dril down graphs
+Data: linked directly to the excel source. For future update, update in data source will refresh Power BI dashboard 
+Hover Enabled: users can hover over visualization to get data
+Drill-down: all visualization within the dashboard has drill-down capabilities 
+Colour theme: updated to distinguish between different segments 
+- **User Interaction:** 
+As the user leverages the filters, visualizations within the dashboard will update based on the selected filters. 
+Audience can also hover over the graphs and visualization to get additional information as required. 
+Intention is to ensure to provide summary of the data as well as detailed visualization to tailor the dashboard for wide-range of audience 
+#### https://vscode.dev/github/OlenaBolokhonova/team_project_2/blob/feature-2/src/Power%20BI%20Visualization%20-%20Team%20Project2.png
 
 #### Additional Visualizations (if any):
 - **Description:** Introduce any new types of visualizations created in Part 2, such as heatmaps or scatter plots, and explain why these were chosen.
@@ -126,6 +137,8 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 5. Aug 8 - updated README_Project2.md - Jessilynn Kim
 6. Aug 9 - renamed and updated README_Project1.md - Olena Bolokhonova
 7. Aug 9 - updated REAME_Project2.md - Olena Bolokhonova
+8. Aug 9 - Power BI Visualization - Team Project file added to src folder - Jessilynn Kim
+9. Aug 9 - Updated Power BI visualization details 
 
 
 ### Rules of Engagement 
