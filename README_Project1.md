@@ -57,6 +57,8 @@ This project aims to analyze consumer behavior and shopping habits using a wide 
 
 The dataset was imported using `pandas`, and an initial inspection showed no missing values across the 19 columns, indicating a clean dataset.
 
+[Cust_Shop_Trends_Dataframe](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Cust_Shop_Trends_Dataframe.png)
+
 ##### Specific Libraries or Frameworks Well-Suited to the Project Requirements:
 1.	Pandas: For data manipulation and analysis.
 2.	NumPy: For numerical computations.
