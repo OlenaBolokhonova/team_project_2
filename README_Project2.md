@@ -177,7 +177,11 @@ Given these circumstances, we decided to compare the visualizations generated fr
   ![Fig 2 Dataset Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Fig2_dataset_Amazon.jpg)
 
 ## Conclusion
-The comparative analysis highlights the importance of using real-world data for deriving actionable insights. While generated datasets are valuable for practicing data analysis and visualization techniques, they lack the variability and complexity of real consumer behavior. In contrast, the "Open e-commerce 1.0" dataset provides a rich source of information that can lead to more accurate and impactful business decisions.
+The comparative analysis highlights the importance of using real-world data for deriving actionable insights. While generated datasets are valuable for practicing data analysis and visualization techniques, they lack the variability and complexity of real consumer behavior. In contrast, the "Open e-commerce 1.0" dataset provides a rich source of information that can lead to more accurate and impactful business decisions. 
+
+The visualizations from the real dataset were clearer in depicting trends over time, as the data was rich with chronological purchase histories that allowed for a detailed analysis of how shopping behaviors evolved. 
+
+The real dataset enabled us to extract more actionable insights, such as identifying peak shopping periods for different demographics and understanding how external factors (like holidays or economic changes) influenced purchase behavior.
 
 #### Accomplishment Log
 1. Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates - Jessilynn Kim
