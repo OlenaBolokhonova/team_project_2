@@ -154,7 +154,7 @@ Given these circumstances, we decided to compare the visualizations generated fr
 
   - **Insights**: The visualizations demonstrated that while line graphs can suggest some variability, bar charts provided a more accurate depiction, showing no significant differences in spending among different age groups. This consistency across different visualizations underscores the limitations of synthetic data in identifying nuanced behavior patterns.
     
-![Average Purchase Amount by Age Group](https://github.com/OlenaBolokhonova/team_project_2/tree/team_project_2/src#:~:text=Python_vis_ave_amount_purchases_age_group.png)
+![Average Purchase Amount by Age Group](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Python_vis_ave_amount_purchases_age_group.png)
 
 - **Real Data**:
   - **Visualization**: The line graph from the "Open e-commerce 1.0" dataset showed much clearer trends, with distinct peaks and troughs corresponding to different age groups. This graph indicated a stronger correlation between age and purchase amounts, with certain age groups consistently spending more than others.
