@@ -130,9 +130,54 @@ Intention is to ensure to provide summary of the data as well as detailed visual
 - **Side-by-Side Comparison:** Show a comparison between the original visualizations from Part 1 and the revised or new visualizations from Part 2.
 - **Improvement Discussion:** Discuss how the changes made in Part 2 improved the communication of data insights and addressed any shortcomings identified in the initial visualizations.
 
-#### Comparison with Real Data Visualizations:
-- **Real vs. Generated Data:** If applicable, compare visualizations from the generated dataset with those from a real dataset. Highlight differences in patterns, clarity, and insights derived from each.
-#### link on png file 
+### Comparative Analysis: Generated vs. Real Dataset Visualizations
+
+#### Introduction
+An acquiring real datasets for analyzing customer purchase behaviors was challenging. Large retail platforms like Amazon, eBay, Walmart, and Home Depot, etc typically do not release real customer data for public research due to privacy concerns, particularly when it involves sensitive demographic information such as age and gender. 
+
+After extensive searching, we identified a real-world dataset from a recent study published by Nature titled ["Open e-commerce 1.0"](https://www.nature.com/articles/s41597-024-03329-6#Sec10). This dataset contains detailed purchase histories from over 5,000 U.S. Amazon.com consumers between 2018 and 2022. 
+
+The "Open e-commerce 1.0" public dataset due to security and privacy concerns does not open demographic details such as age and gender are absent. The dataset contains only anonymized identifiers, like coded survey responder IDs. However, based on gender and age demographics this source does provide line graphs that can be used for comparison. 
+
+![Head Dataframe Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Head_dataframe_Amazon.jpg)
+
+Given these circumstances, we decided to compare the visualizations generated from our dataset with those derived from this real-world dataset to highlight the differences in patterns, and insights.
+
+## Comparative Analysis
+
+### 1. Age and Purchase Amount Comparison
+
+- **Generated Data**:
+  - **Visualization**: The line graph from our generated dataset displayed minor fluctuations in purchase amounts across different ages. Although some variations were present, they were not significant enough to suggest any clear trend or correlation between age and spending.
+
+![Purchase Amount by Age](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Python_purchase_amount_age.png)
+
+  - **Insights**: The visualizations demonstrated that while line graphs can suggest some variability, bar charts provided a more accurate depiction, showing no significant differences in spending among different age groups. This consistency across different visualizations underscores the limitations of synthetic data in identifying nuanced behavior patterns.
+    
+![Average Purchase Amount by Age Group](https://github.com/OlenaBolokhonova/team_project_2/tree/team_project_2/src#:~:text=Python_vis_ave_amount_purchases_age_group.png)
+
+- **Real Data**:
+  - **Visualization**: The line graph from the "Open e-commerce 1.0" dataset showed much clearer trends, with distinct peaks and troughs corresponding to different age groups. This graph indicated a stronger correlation between age and purchase amounts, with certain age groups consistently spending more than others.
+
+![Fig 2 Dataset Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Fig2_dataset_Amazon.jpg)
+
+
+### 2. Gender and Purchase Amount Comparison
+
+- **Generated Data**:
+  - **Visualization**: The bar charts from our generated dataset displayed slight differences between male and female customers in terms of total purchases, number of purchases, and average purchase amounts. However, these differences were minimal and did not indicate any strong gender-based trend.
+  - **Insights**: The consistency in minimal differences across the visualizations highlights the limitations of generated data in capturing real-world gender-based spending patterns.
+    
+![Purchases by Gender](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Pyton_purchases_by_gender.png)
+
+- **Real Data**:
+  - **Visualization**: The "Open e-commerce 1.0" dataset, however, revealed more pronounced differences in gender-based spending. For example, males and females displayed different purchasing patterns over time, with males generally spending more on certain types of products, while females showed a stronger preference for other categories.
+  - **Insights**: The gender-based analysis in the real dataset revealed tangible differences in spending habits between men and women, which were not evident in the generated data. This suggests that gender plays a more significant role in real-world consumer behavior.
+    
+  ![Fig 2 Dataset Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Fig2_dataset_Amazon.jpg)
+
+## Conclusion
+The comparative analysis highlights the importance of using real-world data for deriving actionable insights. While generated datasets are valuable for practicing data analysis and visualization techniques, they lack the variability and complexity of real consumer behavior. In contrast, the "Open e-commerce 1.0" dataset provides a rich source of information that can lead to more accurate and impactful business decisions.
 
 #### Accomplishment Log
 1. Aug 6 - created README_Project2.md file and leveraged project 1 README file as a foundation for project 2 updates - Jessilynn Kim
