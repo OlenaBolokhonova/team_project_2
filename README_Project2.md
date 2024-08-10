@@ -113,7 +113,7 @@ Colour theme: updated to distinguish between different segments
 As the user leverages the filters, visualizations within the dashboard will update based on the selected filters. 
 Audience can also hover over the graphs and visualization to get additional information as required. 
 Intention is to ensure to provide summary of the data as well as detailed visualization to tailor the dashboard for wide-range of audience 
-#### https://vscode.dev/github/OlenaBolokhonova/team_project_2/blob/feature-2/src/Power%20BI%20Visualization%20-%20Team%20Project2.png
+![Power BI Visualization](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Power%20BI%20Visualization%20-%20Team%20Project2.png)
 
 #### Additional Visualizations (if any):
 - **Description:** Introduce any new types of visualizations created in Part 2, such as heatmaps or scatter plots, and explain why these were chosen.
