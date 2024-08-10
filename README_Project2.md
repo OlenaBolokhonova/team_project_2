@@ -136,9 +136,12 @@ Intention is to ensure to provide summary of the data as well as detailed visual
 4. Aug 7 - reviewed previous dataset and determined to search for similar dataset that is not fictious - all team members
 5. Aug 8 - updated README_Project2.md - Jessilynn Kim
 6. Aug 9 - renamed and updated README_Project1.md - Olena Bolokhonova
-7. Aug 9 - updated REAME_Project2.md - Olena Bolokhonova
-8. Aug 9 - Power BI Visualization - Team Project file added to src folder - Jessilynn Kim
-9. Aug 9 - Updated Power BI visualization details 
+7. Aug 9 - updated README_Project2.md - Olena Bolokhonova
+8. Aug 9 - updated customer shopping behavior analysis.ipynb - Olena Bolokhonova
+9. Aug 9 - Power BI Visualization - Team Project file added to src folder - Jessilynn Kim
+10. Aug 9 - updated Power BI visualization details - Jessilynn Kim
+11. Aug 10 - add visualization_project_part2.ipynb  - Olena Bolokhonova
+12. Aug 10 - add Python_purchase_amount_age.png, Python_vis_ave_amount_purchases_age_group.png, Pyton_purchases_by_gender.png - Olena Bolokhonova
 
 
 ### Rules of Engagement 
