@@ -99,7 +99,8 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 ### Introduction of New Visualizations
 
 #### Interactive Dashboards in Power BI:
-- **Description:** Cusomter Shopping Behaviour Analysis Power BI Dashboard created using bar chart with line graph, line graph and pie chart with attribute filters. This visualization incorporates various attributes and metrics part of the datasets. Leveraging demographic and transactional attributes as filters, this visualization looks to showcase following: 1) Total Purchase in comparison to previous purchase with variance based on age, 2) average review ratings by age and gender, 3) purchaase amount summary by season and gender 
+- **Description:** 
+Cusomter Shopping Behaviour Analysis Power BI Dashboard created using bar chart with line graph, line graph and pie chart with attribute filters. This visualization incorporates various attributes and metrics part of the datasets. Leveraging demographic and transactional attributes as filters, this visualization looks to showcase following: 1) Total Purchase in comparison to previous purchase with variance based on age, 2) average review ratings by age and gender, 3) purchaase amount summary by season and gender 
 
 - **Key Features:**
 Demographic and purchase transaction attributes as filters: gender, location, season, payment method, subscription status and frequency of purchase 
