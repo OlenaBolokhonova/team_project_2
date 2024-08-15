@@ -89,13 +89,6 @@ There are no privacy concerns or sensitive information in our dataset, as the da
 
 ## Visualization Results
 
-### Revised Visualizations
-
-#### Enhanced Bar Charts:
-- **Description:** Summarize the improvements made to the bar charts used in Part 1, focusing on how these changes improved readability, accuracy, and the communication of key insights.
-- **Key Insights:** Highlight the primary takeaways from the revised bar charts, such as demographic purchase behaviors or location-based sales patterns.
-#### link on png file 
-
 ### Introduction of New Visualizations
 
 #### Interactive Dashboards in Power BI:
@@ -189,7 +182,7 @@ Given these circumstances, we decided to compare the visualizations generated fr
     
   ![Fig 2 Dataset Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Fig2_dataset_Amazon.jpg)
 
-### 3. Location Distribution Visualization
+### 3. Revised Location Distribution Visualization
  
 - **Generated Data**:
  - **Visualization**: The Location Distribution visualization provides an overview of customer distribution across various U.S. states. The visualization highlights regions with higher concentrations of customers, making it easier to identify key markets.
@@ -203,7 +196,7 @@ Given these circumstances, we decided to compare the visualizations generated fr
 
  - **Insights**: A real dataset would likely provide a more complex picture of location-based consumer behavior, allowing for more targeted and effective marketing strategies.
 
-### 4. Purchase Amount by Location
+### 4. Revised Purchase Amount by Location
 
 - **Generated Data**:
  - **Visualization**: The Purchase Amount by Location visualization compares average purchase amounts across different U.S. states. It highlights the top and bottom states by average spending, providing a clear view of regional spending behavior.
@@ -237,6 +230,12 @@ The real dataset enabled us to extract more actionable insights, such as identif
 10. Aug 9 - updated Power BI visualization details - Jessilynn Kim
 11. Aug 10 - add visualization_project_part2.ipynb  - Olena Bolokhonova
 12. Aug 10 - add Python_purchase_amount_age.png, Python_vis_ave_amount_purchases_age_group.png, Pyton_purchases_by_gender.png - Olena Bolokhonova
+13. Aug 13 - update visualization_project_part2.ipynb - Mykhailo Vitvinov
+14. Aug 14 - add Location_Distribution_Visualization.png, Purchase_Amount_by_Location.png - Mykhailo Vitvinov
+15. Aug 14 - updated README_Project2.md - Mykhailo Vitvinov
+16. Aug 14 - designed Tableu Dashboard - Shiraz Latif
+17. Aug 14 - add tableau1.png and tableau1.gif - Shiraz Latif
+18. Aug 15  - updated README_Project2.md - Shiraz Latif
 
 ### Rules of Engagement 
 #### Engagement Channel:
