@@ -5,7 +5,7 @@
 #### Team Members 
 
 - Shiraz Latif: 
-- Jessilynn Kim: https://drive.google.com/file/d/16JKt7eNzkZ4f2KJKzUVe3NXJt1AjNvd-/view?usp=drive_link  
+- Jessilynn Kim: [Jessilynn Kim Video Presentation](https://drive.google.com/file/d/16JKt7eNzkZ4f2KJKzUVe3NXJt1AjNvd-/view?usp=drive_link)
 - Mykhailo Vitvinov: 
 - Olena Bolokhonova: 
 
