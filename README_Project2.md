@@ -6,8 +6,8 @@
 
 - Shiraz Latif: 
 - Jessilynn Kim: [Jessilynn Kim Video Presentation](https://drive.google.com/file/d/16JKt7eNzkZ4f2KJKzUVe3NXJt1AjNvd-/view?usp=drive_link)
-- Mykhailo Vitvinov: [Mykhailo Vitvinov Video Presentation] (https://youtu.be/iCLoVATeNbM)
-- Olena Bolokhonova: 
+- Mykhailo Vitvinov: [Mykhailo Vitvinov Video Presentation](https://youtu.be/iCLoVATeNbM)
+- Olena Bolokhonova: [Olena Bolokhonova Video Presentation](https://drive.google.com/file/d/16x3i4J19JZwW5B_Aid46RUqg7wWY4rh-/view?usp=drivesdk)
 
 ### 1. Overview of Findings from Part 1
 
@@ -268,8 +268,8 @@ Shared Excel Tracker
 1. Voting
 2. Respecting other's opinions
 3. Listening
-4. Actively communicating during meetings
-5. Avoid assumptions and ask questions where clarity is required 
+5. Actively communicating during meetings
+6. Avoid assumptions and ask questions where clarity is required 
 
 
 
