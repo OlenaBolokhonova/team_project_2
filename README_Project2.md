@@ -136,14 +136,14 @@ The dashboard is very much interactive i.e. selection from one chart will filter
 
 Dashboard Screenshot:
 
-![Customer Shopping Analysis in Tableau ](src\tableau1.JPG) 
+![Customer Shopping Analysis in Tableau ](\src\tableau1.JPG) 
 
 
 Short Demo on interactivity:
 
 [![Customer Shopping Analysis - Tableau Dashboard](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fgr0Xm9mvp3M)](https://youtu.be/gr0Xm9mvp3M)
 
-[![Customer Shopping Analysis - Tableau Dashboard](src\tableau1.gif)
+![Customer Shopping Analysis - Tableau Dashboard](\src\tableau1.gif)
 
 
 
