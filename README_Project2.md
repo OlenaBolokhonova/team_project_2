@@ -116,6 +116,33 @@ Audience can also hover over the graphs and visualization to get additional info
 Intention is to ensure to provide summary of the data as well as detailed visualization to tailor the dashboard for wide-range of audience 
 ![Power BI Visualization](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Power%20BI%20Visualization%20-%20Team%20Project2.png)
 
+
+
+#### Interactive Dashboards in Tableau:
+
+- **Description:** Tableau dashboard was created to support self-serve insights generation. It is designed keeping in view a general business user who lack technical skills but have broader business knowledge. The dashboard focuses on geographical coverage area and other features like age, product class, item purchased, rating and their impact on purchasing. We used map to uncover geo-mapping, bar charts to compare different age groups, heatmap for comparison of item purchased, stacked bar charts for comparing gender and category whereas scatterplot for understanding correlation between amount purchased and rating. 
+
+The dashboard is very much interactive i.e. selection from one chart will filter the remaining charts in the dashboard so that a business user can better slice and dice the data to reach to the root cause of a problem and ultimately make a better marketing strategy that is built on data driven insights. 
+
+- **Key Insights:** The data shows that 
+  - the western states of the country are performing very well including Nevada, Montana, California and Idaho. 
+  - Customer aging from 20 to 60 years are all equally contributing in the sales. 
+  - Overall Blouse is the frequently purchased item and is the top most contributor for the business. 
+  - Distribution for purchase amount is very much flat i.e. we did not find any evidence that shows a particular range of purchase amount was more frequent then others.  
+  - Nevada stores struggle with attracting customer of middle age who are in their 40s whereas in other regions, this was not the case. 
+  - Jackets being the most popular item for customers in 40s whereas Jewellery is popular for customers in 30s. 
+  - There was no major distinction between the purchasing behavior of men vs women. 
+
+
+Dashboard Screenshot:
+![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/tableau1.jpg) 
+
+
+Short Demo on interactivity:
+[![Customer Shopping Analysis - Tableau Dashboard](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fgr0Xm9mvp3M)](https://youtu.be/gr0Xm9mvp3M)
+
+
+
 #### Additional Visualizations (if any):
 - **Description:** Introduce any new types of visualizations created in Part 2, such as heatmaps or scatter plots, and explain why these were chosen.
 - **Key Insights:** Present the main findings or patterns these new visualizations reveal, and how they contribute to the overall analysis.
