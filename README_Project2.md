@@ -137,7 +137,9 @@ The dashboard is very much interactive i.e. selection from one chart will filter
 - **Dashboard Screenshot:** 
 ![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/feature-tableau1/src/tableau1.png) 
 
+
 - **Short Demo on interactivity:** 
+  
 ![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/feature-tableau1/src/tableau1.gif) 
 
 
