@@ -143,20 +143,6 @@ The dashboard is very much interactive i.e. selection from one chart will filter
 ![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/feature-tableau1/src/tableau1.gif) 
 
 
-
-
-
-
-#### Additional Visualizations (if any):
-- **Description:** Introduce any new types of visualizations created in Part 2, such as heatmaps or scatter plots, and explain why these were chosen.
-- **Key Insights:** Present the main findings or patterns these new visualizations reveal, and how they contribute to the overall analysis.
-#### link on png file 
-
-### Comparative Visualization
-#### Comparison with Initial Visualizations:
-- **Side-by-Side Comparison:** Show a comparison between the original visualizations from Part 1 and the revised or new visualizations from Part 2.
-- **Improvement Discussion:** Discuss how the changes made in Part 2 improved the communication of data insights and addressed any shortcomings identified in the initial visualizations.
-
 ### Comparative Analysis: Generated vs. Real Dataset Visualizations
 
 #### Introduction
@@ -208,7 +194,7 @@ Given these circumstances, we decided to compare the visualizations generated fr
 - **Generated Data**:
  - **Visualization**: The Location Distribution visualization provides an overview of customer distribution across various U.S. states. The visualization highlights regions with higher concentrations of customers, making it easier to identify key markets.
 
- ![Customer Location Distribution] (https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Location_Distribution_Visualization.png)
+ ![Customer Location Distribution](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Location_Distribution_Visualization.png)
 
  - **Insights**: The generated data successfully displays the geographic distribution of customers, which can help in identifying potential target areas for marketing campaigns. However, the simplicity of the generated data might not capture more nuanced distribution patterns that could be present in a real dataset.
 
@@ -222,7 +208,7 @@ Given these circumstances, we decided to compare the visualizations generated fr
 - **Generated Data**:
  - **Visualization**: The Purchase Amount by Location visualization compares average purchase amounts across different U.S. states. It highlights the top and bottom states by average spending, providing a clear view of regional spending behavior.
 
- ![Customer Purchase Amount by Location] (https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Purchase_Amount_by_Location.png)
+ ![Customer Purchase Amount by Location](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Purchase_Amount_by_Location.png)
 
  - **Insights**: This visualization offers insights into which regions have higher or lower average spending. While useful, the generated data may not fully reflect the complexities of consumer spending patterns that would be seen in a real dataset.
 
