@@ -172,6 +172,34 @@ Given these circumstances, we decided to compare the visualizations generated fr
     
   ![Fig 2 Dataset Amazon](https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Fig2_dataset_Amazon.jpg)
 
+### 3. Location Distribution Visualization
+ 
+- **Generated Data**:
+ - **Visualization**: The Location Distribution visualization provides an overview of customer distribution across various U.S. states. The visualization highlights regions with higher concentrations of customers, making it easier to identify key markets.
+
+ ![Customer Location Distribution] (https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Location_Distribution_Visualization.png)
+
+ - **Insights**: The generated data successfully displays the geographic distribution of customers, which can help in identifying potential target areas for marketing campaigns. However, the simplicity of the generated data might not capture more nuanced distribution patterns that could be present in a real dataset.
+
+- **Real Data**:
+ - **Visualization**: In a real-world dataset, we would expect more variability in customer distribution across regions, potentially revealing trends related to economic factors, population density, and consumer behavior that are not fully captured by the generated data.
+
+ - **Insights**: A real dataset would likely provide a more complex picture of location-based consumer behavior, allowing for more targeted and effective marketing strategies.
+
+### 4. Purchase Amount by Location
+
+- **Generated Data**:
+ - **Visualization**: The Purchase Amount by Location visualization compares average purchase amounts across different U.S. states. It highlights the top and bottom states by average spending, providing a clear view of regional spending behavior.
+
+ ![Customer Purchase Amount by Location] (https://github.com/OlenaBolokhonova/team_project_2/blob/team_project_2/src/Purchase_Amount_by_Location.png)
+
+ - **Insights**: This visualization offers insights into which regions have higher or lower average spending. While useful, the generated data may not fully reflect the complexities of consumer spending patterns that would be seen in a real dataset.
+
+- **Real Data**:
+ - **Visualization**: A real-world dataset would likely show more varied spending patterns across locations, influenced by factors such as income levels, local economic conditions, and cultural differences.
+
+ - **Insights**: The real data would provide a more nuanced understanding of regional spending habits, allowing for better-informed decisions in resource allocation and marketing efforts.
+
 ## Conclusion
 The comparative analysis highlights the importance of using real-world data for deriving actionable insights. While generated datasets are valuable for practicing data analysis and visualization techniques, they lack the variability and complexity of real consumer behavior. In contrast, the "Open e-commerce 1.0" dataset provides a rich source of information that can lead to more accurate and impactful business decisions. 
 
