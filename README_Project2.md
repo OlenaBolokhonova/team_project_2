@@ -134,22 +134,12 @@ The dashboard is very much interactive i.e. selection from one chart will filter
   - There was no major distinction between the purchasing behavior of men vs women. 
 
 
-Dashboard Screenshot:
-Online link 
+- **Dashboard Screenshot:** 
 ![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/feature-tableau1/src/tableau1.png) 
-relative path 
-![Customer Shopping Analysis in Tableau ](\src\tableau1.png) 
 
-
-Short Demo on interactivity:
-
-[![Customer Shopping Analysis - Tableau Dashboard](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fgr0Xm9mvp3M)](https://youtu.be/gr0Xm9mvp3M)
-
-Online link 
+- **Short Demo on interactivity:** 
 ![Customer Shopping Analysis in Tableau ](https://github.com/OlenaBolokhonova/team_project_2/blob/feature-tableau1/src/tableau1.gif) 
 
-
-![Customer Shopping Analysis - Tableau Dashboard](src\tableau1.gif)
 
 
 
