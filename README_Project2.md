@@ -4,9 +4,7 @@
 ### Group 24 
 #### Team Members 
 
-- Shiraz Latif: 
-  [![Customer Shopping Analysis - Project Debriefing](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FSb94wyiiyjY)](https://youtu.be/Sb94wyiiyjY)
-
+- Shiraz Latif: [Shiraz Latif Video Presentation](https://youtu.be/Sb94wyiiyjY)
 - Jessilynn Kim: [Jessilynn Kim Video Presentation](https://drive.google.com/file/d/16JKt7eNzkZ4f2KJKzUVe3NXJt1AjNvd-/view?usp=drive_link)
 - Mykhailo Vitvinov: [Mykhailo Vitvinov Video Presentation](https://youtu.be/iCLoVATeNbM)
 - Olena Bolokhonova: [Olena Bolokhonova Video Presentation](https://drive.google.com/file/d/16x3i4J19JZwW5B_Aid46RUqg7wWY4rh-/view?usp=drivesdk)
